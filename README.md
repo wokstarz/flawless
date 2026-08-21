@@ -2,9 +2,7 @@
 
 Hey there! Welcome to **Flawless Music Player**. 
 
-If you're tired of clunky, outdated music players and want something that actually looks and feels like it belongs in the modern era, you're in the right place. Built with Tauri, React, and Zustand, Flawless isn't just a music player—it's an experience. We designed it from the ground up to give you that buttery-smooth "Liquid Glass" aesthetic, all while packing some seriously powerful audio tools under the hood. 
-
-Whether you're jamming to your local FLAC files or streaming from your own private server, we've got you covered.
+If you're tired of clunky, outdated music players and want something that actually looks and feels like it belongs in the modern era, you're in the right place.
 
 ---
 
